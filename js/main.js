@@ -24,7 +24,7 @@ const enemiesData = [
         hp:50,
         attack:3,
         defence:1,
-        img:'slime.png'
+        img:'https://github.com/purple-B-boy/BATTLE/blob/main/img/slime.png?raw=true'
     },
     {
         name:'フェアリー',
