@@ -38,7 +38,7 @@ const enemiesData = [
         hp:80,
         attack:4,
         defence:2,
-        img:'gargoyle.png'
+        img:'https://github.com/purple-B-boy/BATTLE/blob/main/img/gargoyle.png?raw=true'
     }
 ];
 
