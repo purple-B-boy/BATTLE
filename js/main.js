@@ -31,7 +31,7 @@ const enemiesData = [
         hp:60,
         attack:4,
         defence:2,
-        img:'pixy.png'
+        img:'https://github.com/purple-B-boy/BATTLE/blob/main/img/pixy.png?raw=true'
     },
     {
         name:'ガーゴイル',
